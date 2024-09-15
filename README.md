@@ -3,7 +3,8 @@
 <!--
 **EmiVans/EmiVans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Mathematician passionate about data science and programming, with experience in artificial intelligence. I have solid
+knowledge in statistics and outstanding skills in problem-solving, research, and teamwork. 	:computer: 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,3 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Mathematician passionate about data science and programming, with experience in artificial intelligence. I have solid
+knowledge in statistics and outstanding skills in problem-solving, research, and teamwork. 	:computer: 
+
+
