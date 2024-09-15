@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi! My name is Emiliano 👋
 
 <!--
 **EmiVans/EmiVans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,6 @@ knowledge in statistics and outstanding skills in problem-solving, research, and
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Mathematician passionate about data science and programming, with experience in artificial intelligence. I have solid
-knowledge in statistics and outstanding skills in problem-solving, research, and teamwork. 	:computer: 
+Math student passionate about data science, programming and statistics. I'm currently delving into AI. :computer: :chart_with_upwards_trend: :nerd_face:
 
 
